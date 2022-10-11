@@ -1,5 +1,7 @@
 # Calenda
 
+Simple calendar system. Depends on [Calenda-Backend](https://github.com/frankisko/calenda_backend)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
