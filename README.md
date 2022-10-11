@@ -1,4 +1,4 @@
-# Calen
+# Calenda
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +27,14 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Features:
+
+Calendar
+![Calendar](/repository/assets/calendar.jpg?raw=true "Calendar")
+
+Events
+![Events](/repository/assets/events.jpg?raw=true "Events")
+
+Types
+![Types](/repository/assets/types.jpg?raw=true "Types")
